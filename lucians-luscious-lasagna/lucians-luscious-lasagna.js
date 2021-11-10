@@ -1,9 +1,9 @@
 export const EXPECTED_MINUTES_IN_OVEN = 40;
 
 export function remainingMinutesInOven(actualMinutesInOven) {
-  
-  return EXPECTED_MINUTES_IN_OVEN - actualMinutesInOven 
-  
+
+  return EXPECTED_MINUTES_IN_OVEN - actualMinutesInOven
+
 
 }
 
